@@ -27,20 +27,32 @@ Developed a social networking app for iOS using Swift, Firebase, and Firestore. 
 	•	Tested and debugged the app to ensure smooth performance and functionality across different devices.
 
  ## Screenshots
- ![Main Screen][![IMG_4396](https://github.com/Suru-web/UniLink-Info/assets/66472830/9a2085ee-c1d3-4ecf-82ef-c476c2030122)
- ![Login Screen]![IMG_4397](https://github.com/Suru-web/UniLink-Info/assets/66472830/0c712dab-d9da-4967-8cef-d0f5b4363d82)
- ![SignUp Screen]![IMG_4398](https://github.com/Suru-web/UniLink-Info/assets/66472830/b240abcb-8ee2-4c89-8359-f5f60aa5b384)
- ![HomeScreen]![IMG_4399](https://github.com/Suru-web/UniLink-Info/assets/66472830/fa6183b0-40ca-47ab-84ee-694ef506bb4e)
- ![Reels Screen]![IMG_4400](https://github.com/Suru-web/UniLink-Info/assets/66472830/b6c99360-9485-4b34-812e-1f2de8400c93)
- ![Search Screen]![IMG_4401](https://github.com/Suru-web/UniLink-Info/assets/66472830/942e540f-d1ec-47c4-be1e-85ed5d6baa9f)
- ![Events Screen]![IMG_4402](https://github.com/Suru-web/UniLink-Info/assets/66472830/41f11b8c-7f93-4f33-827d-76293e481315)
- ![Event Details Screen]![IMG_4403](https://github.com/Suru-web/UniLink-Info/assets/66472830/dc43019f-1268-47bc-88b4-ca3f2fe910f2)
- ![Market Place]![IMG_4404](https://github.com/Suru-web/UniLink-Info/assets/66472830/589465e8-7b93-4541-a989-0c45fabf5861)
- ![Product details context menu]![IMG_4405](https://github.com/Suru-web/UniLink-Info/assets/66472830/679b84a6-daab-472d-be8c-422f059d493b)
- ![Settings screen]![IMG_4406](https://github.com/Suru-web/UniLink-Info/assets/66472830/9f7e48d2-5040-40fa-85bc-671e7c8679ba)
- ![My account screen]![IMG_4407](https://github.com/Suru-web/UniLink-Info/assets/66472830/2cc0cea6-6690-494d-a3bc-8c145ff0df44)![IMG_4408](https://github.com/Suru-web/UniLink-Info/assets/66472830/0d3a26cd-a78e-44b6-910c-37f8c8d9066d)
- ![Post context Menu]![IMG_4409](https://github.com/Suru-web/UniLink-Info/assets/66472830/557c6da0-5531-4811-916a-79b8fe45b41f)
-
+ ![Main Screen]![IMG_4396](https://github.com/Suru-web/UniLink-Info/assets/66472830/4530b2f8-ea75-4412-aade-3e6cf8392ef5)
+ 
+ ![Login Screen]![IMG_4397](https://github.com/Suru-web/UniLink-Info/assets/66472830/4e0bbb26-3cea-464e-8342-02f864496c2e)
+ 
+ ![SignUp Screen]![IMG_4398](https://github.com/Suru-web/UniLink-Info/assets/66472830/b44796bb-d3ef-4583-88e0-bc90751d87d8)
+ 
+ ![HomeScreen]![IMG_4399](https://github.com/Suru-web/UniLink-Info/assets/66472830/e6c1670e-6ebc-4421-94d3-a26fafadbb24)
+ 
+ ![Reels Screen]![IMG_4400](https://github.com/Suru-web/UniLink-Info/assets/66472830/2af0b1b5-2558-4e0c-be44-cf8696694299)
+ 
+ ![Search Screen]![IMG_4401](https://github.com/Suru-web/UniLink-Info/assets/66472830/40f4998c-0c11-4e40-a5b9-a5f68a046b76)
+ 
+ ![Events Screen]![IMG_4402](https://github.com/Suru-web/UniLink-Info/assets/66472830/a80546e4-a773-4d55-aca6-a85123523483)
+ 
+ ![Event Details Screen]![IMG_4403](https://github.com/Suru-web/UniLink-Info/assets/66472830/96164c0e-ee32-4d84-93d9-e394f32909d3)
+ 
+ ![Market Place]![IMG_4404](https://github.com/Suru-web/UniLink-Info/assets/66472830/93098166-366a-479c-8ea8-b3fa76893caf)
+ 
+ ![Product details context menu]![IMG_4405](https://github.com/Suru-web/UniLink-Info/assets/66472830/a08b7f58-c319-4e76-b7a9-495f974f5697)
+ 
+ ![Settings screen]![IMG_4406](https://github.com/Suru-web/UniLink-Info/assets/66472830/f270f3e5-f10d-4f9d-96c0-22152e6ac867)
+ 
+ ![My account screen]![IMG_4407](https://github.com/Suru-web/UniLink-Info/assets/66472830/99cac025-eaf5-4d0c-94fa-cb78b839c33f)![IMG_4408](https://github.com/Suru-web/UniLink-Info/assets/66472830/5633baa9-1e6c-4099-9e54-f34833205bdf)
+ 
+ ![Post context Menu]![IMG_4409](https://github.com/Suru-web/UniLink-Info/assets/66472830/663f7f74-f5fa-4f40-b0c5-fbc5161bcc96)
+ 
  ## Installations
  The app will soon be released to the app store after the Beta testing is done as per the date of 29th June, 2024
 
